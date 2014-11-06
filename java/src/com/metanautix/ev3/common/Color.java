@@ -1,3 +1,5 @@
+/* Copyright 2014 Metanautix, Inc. */
+
 package com.metanautix.ev3.common;
 
 import java.util.HashMap;
