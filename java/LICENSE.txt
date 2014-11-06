@@ -1,10 +1,26 @@
-Licensed under the Creative Commons license named
-Attribution-NonCommercial-ShareAlike 4.0 International
-
-Legal code available at:
+ Unless stated otherwise herein, the enclosed computer code is
+licensed under the Creative Commons license named
+'Attribution-NonCommercial-ShareAlike 4.0 International'. The legal
+code of that license is available at the following URL:
 
  http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
-or
+and within the enclosed file 'LICENSE-CC.pdf'. For the purposes of
+that license, the creator of the Licensed Material is 'Metanautix,
+Inc.'.
 
- LICENSE.pdf
+
+ This license does not apply to the Metanautix, Inc., logo, available
+within the file
+
+ resources/com/metanautix/ev3/server/metanautix.lejos
+
+or to any trademarks of Metanautix, Inc., that appear within the
+enclosed computer code, including the name of Metanautix, Inc.,
+itself. You may not reproduce, create derivative works, make
+available, disseminate, or otherwise use any such intellectual
+property of Metanautix, Inc., in any way except for the sole purpose
+of the attribution mandated by the above Creative Commons license. It
+is therefore your responsibility to remove or replace the above file
+when creating derivative works compliant with the above Creative
+Commons license.
